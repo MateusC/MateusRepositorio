@@ -1,0 +1,9 @@
+H:\Unidade 4\Unidade 4\bin\Debug\Unidade IV.exe.config
+H:\Unidade 4\Unidade 4\obj\Debug\Unidade IV.exe
+H:\Unidade 4\Unidade 4\obj\Debug\Unidade IV.pdb
+H:\Unidade 4\Unidade 4\bin\Debug\Unidade IV.exe
+H:\Unidade 4\Unidade 4\bin\Debug\Unidade IV.pdb
+H:\Unidade 4\Unidade 4\obj\Debug\Unidade_4.csprojResolveAssemblyReference.cache
+J:\Unidade 4\Unidade 4\bin\Debug\Unidade IV.exe.config
+J:\Unidade 4\Unidade 4\obj\Debug\Unidade IV.exe
+J:\Unidade 4\Unidade 4\obj\Debug\Unidade IV.pdb

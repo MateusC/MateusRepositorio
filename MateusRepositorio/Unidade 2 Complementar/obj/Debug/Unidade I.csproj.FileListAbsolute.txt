@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Exercicio 1 unidade 1\Exercicio 1 unidade 1\bin\Debug\Exercicio 1 unidade 1.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Exercicio 1 unidade 1\Exercicio 1 unidade 1\bin\Debug\Exercicio 1 unidade 1.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Exercicio 1 unidade 1\Exercicio 1 unidade 1\bin\Debug\Exercicio 1 unidade 1.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\Exercicio 1 unidade 1\Exercicio 1 unidade 1\obj\Debug\Unidade I.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\Exercicio 1 unidade 1\Exercicio 1 unidade 1\obj\Debug\Exercicio 1 unidade 1.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Exercicio 1 unidade 1\Exercicio 1 unidade 1\obj\Debug\Exercicio 1 unidade 1.pdb

@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2013\Projects\Unidade IV Resultado\Unidade IV\bin\Debug\Unidade IV.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\Unidade IV Resultado\Unidade IV\bin\Debug\Unidade IV.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Unidade IV Resultado\Unidade IV\bin\Debug\Unidade IV.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\Unidade IV Resultado\Unidade IV\obj\Debug\Unidade IV.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\Unidade IV Resultado\Unidade IV\obj\Debug\Unidade IV.exe
+c:\users\lucas\documents\visual studio 2013\Projects\Unidade IV Resultado\Unidade IV\obj\Debug\Unidade IV.pdb
+H:\Unidade 4\Unidade 4\bin\Debug\Unidade IV.exe.config
+H:\Unidade 4\Unidade 4\obj\Debug\Unidade IV.exe
+H:\Unidade 4\Unidade 4\obj\Debug\Unidade IV.pdb

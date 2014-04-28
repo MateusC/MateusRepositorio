@@ -1,0 +1,15 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade 3\Unidade 3\bin\Debug\Unidade 3.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade 3\Unidade 3\bin\Debug\Unidade 3.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade 3\Unidade 3\bin\Debug\Unidade 3.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade 3\Unidade 3\obj\Debug\Unidade 3.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade 3\Unidade 3\obj\Debug\Unidade 3.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade 3\Unidade 3\obj\Debug\Unidade 3.pdb
+J:\Unidade 3 Complementar\Unidade 3\bin\Debug\Unidade 3.exe.config
+J:\Unidade 3 Complementar\Unidade 3\obj\Debug\Unidade 3.exe
+J:\Unidade 3 Complementar\Unidade 3\obj\Debug\Unidade 3.pdb
+J:\Unidade 3 Complementar\Unidade 3\bin\Debug\Unidade 3.exe
+J:\Unidade 3 Complementar\Unidade 3\bin\Debug\Unidade 3.pdb
+J:\Unidade 3 Complementar\Unidade 3\obj\Debug\Unidade 3.csprojResolveAssemblyReference.cache
+H:\Unidade 3 Complementar\Unidade 3\bin\Debug\Unidade 3.exe.config
+H:\Unidade 3 Complementar\Unidade 3\obj\Debug\Unidade 3.exe
+H:\Unidade 3 Complementar\Unidade 3\obj\Debug\Unidade 3.pdb

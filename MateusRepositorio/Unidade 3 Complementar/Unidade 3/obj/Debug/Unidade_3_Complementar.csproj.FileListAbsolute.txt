@@ -1,0 +1,3 @@
+H:\Unidade 3 Complementar\Unidade 3\bin\Debug\Unidade 3.exe.config
+H:\Unidade 3 Complementar\Unidade 3\obj\Debug\Unidade 3.exe
+H:\Unidade 3 Complementar\Unidade 3\obj\Debug\Unidade 3.pdb
