@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar result\Unidade_6_Complementar\bin\Debug\Unidade_6_Complementar.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar result\Unidade_6_Complementar\bin\Debug\Unidade_6_Complementar.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar result\Unidade_6_Complementar\bin\Debug\Unidade_6_Complementar.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar result\Unidade_6_Complementar\obj\Debug\Unidade_6_Complementar.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar result\Unidade_6_Complementar\obj\Debug\Unidade_6_Complementar.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar result\Unidade_6_Complementar\obj\Debug\Unidade_6_Complementar.pdb
