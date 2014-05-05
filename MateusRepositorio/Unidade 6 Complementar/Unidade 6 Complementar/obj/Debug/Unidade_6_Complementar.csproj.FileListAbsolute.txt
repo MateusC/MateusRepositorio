@@ -4,3 +4,9 @@ c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar resu
 c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar result\Unidade_6_Complementar\obj\Debug\Unidade_6_Complementar.csprojResolveAssemblyReference.cache
 c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar result\Unidade_6_Complementar\obj\Debug\Unidade_6_Complementar.exe
 c:\users\aluno\documents\visual studio 2013\Projects\Unidade_6_Complementar result\Unidade_6_Complementar\obj\Debug\Unidade_6_Complementar.pdb
+C:\Users\Lucas\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.exe.config
+C:\Users\Lucas\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.exe
+C:\Users\Lucas\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.pdb
+C:\Users\Lucas\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.exe
+C:\Users\Lucas\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.pdb
+C:\Users\Lucas\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.csprojResolveAssemblyReference.cache

@@ -136,9 +136,9 @@ namespace Unidade_6_Complementar
 
         }
 
-        static void Main6(string[] args)
+        static void Main5(string[] args)
         {
-            //Programa 6
+            //Programa 5
             int[] Codigo = new int[100];
             int[] Idade = new int[100];
             int[] Caixas = new int[100];
@@ -190,9 +190,9 @@ namespace Unidade_6_Complementar
 
         }
 
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
-            //Programa 7
+            //Programa 6
             double[] altura = new double[200];
             string[] nome = new string[200];
             double maior = 0;
@@ -226,7 +226,92 @@ namespace Unidade_6_Complementar
             Console.Write("\nNome..: {0}", nome[indicador]);
             Console.Write("\nAltura: {0:f2}", altura[indicador]);
             Console.ReadKey();
+        }
 
+        static void Main7(string[] args)
+        {
+            // Programa 7
+
+            int dia =0;
+            char cod = 'a';
+            double salario = 0;
+            double salarioTotal = 0;
+            double horas = 0;
+            do
+            {
+                Console.Write("Funcionário Mensalista ou Horista:     (M/H)");
+                cod = char.Parse(Console.ReadLine());
+                cod = char.ToLower(cod);
+                if (cod == 'h')
+                {
+                    do
+                    {
+                        Console.Write("\nHoras trabalhadas: ");
+                        horas = double.Parse(Console.ReadLine());
+                    } while (horas < 1 || horas > 12);
+                    Console.Write("Valor da hora: ");
+                    salario = double.Parse(Console.ReadLine());
+                    salarioTotal = salario * horas;
+
+                }
+                else if (cod == 'm')
+                {
+                    do
+                    {
+
+                        Console.Write("Quantos dias teve o mês: ");
+                        dia = int.Parse(Console.ReadLine());
+                    } while (dia < 28 || dia > 32 );
+                    Console.Write("Valor do dia: ");
+                    salario = double.Parse(Console.ReadLine());
+                    salarioTotal = dia * salario;
+
+                }
+                else
+                {
+                    Console.WriteLine("Código Errado, insira novamente outro código correto.");
+                    Console.ReadKey();
+                }
+            } while (cod != 'h' && cod != 'm');
+            Console.Write("\nSalário Bruto .....: {0}", salarioTotal);
+            Console.ReadKey();
+        }
+
+        static void Main8(string[] args)
+        {
+            //Programa 8
+            int cont = 0;
+            string [] Nome = new string[100];
+            string[] NomePronto = new string[100];
+            string EspacoFinal = ", ";
+
+            do
+            {
+                Console.Write("N° nomes: ");
+                cont = int.Parse(Console.ReadLine());
+            } while (cont < 0 || cont > 100);
+            int i = 0;
+            for ( i = 0; i < cont; i++)
+            {
+                Console.Write("Nome....: ");
+                Nome[i] = Console.ReadLine();
+                string[] espaco = Nome[i].Split(' ');
+
+                espaco[1] = espaco[1].ToUpper();
+                Nome[i] =  espaco[1] + EspacoFinal + espaco[0] ;
+  
+            }
+            int j = 0;
+            for ( j = 0; j < cont; j++)
+            {
+                Console.Write("\nNome ...: {0}", Nome[j]);
+            }
+            Console.ReadKey();
+        }
+
+        static void Main(string[] args)
+        {
+            // Programa 10
 
 
         }
