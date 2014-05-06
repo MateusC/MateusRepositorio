@@ -85,27 +85,36 @@ namespace Unidade_6_Complementar
             Console.ReadKey();
         }
 
-        static void Main3(string[] args)
+        static void Main(string[] args)
         {
             //Programa 3
 
             int sexo = 0;
             double peso = 0;
             double altura = 0;
-            Console.Write("Altura: ");
+           
+            do
+            {             
+                Console.Write("\t\t\tEscolha a opção:\n1 - Homem:\n2 - Mulher: ");
+                sexo = int.Parse(Console.ReadLine());
+                if (sexo != 1 && sexo != 2)
+                {
+                    Console.WriteLine("Resposta incorreta, digite novamente: ");
+                }
+            } while (sexo != 1 && sexo != 2);
+            Console.Write("\nAltura: ");
             altura = double.Parse(Console.ReadLine());
-            Console.Write("\t\t\tEscolha a opção:\n1 - Homem:\n2 - Mulher: ");
-            sexo = int.Parse(Console.ReadLine());
-
-            if (sexo == 1)
-            {
-                peso = (62.1 * altura) - 44.7;
-            }
-            else if (sexo == 2)
-            {
-                peso = (72.7 * altura) - 58;
-            }
-            Console.Write("\n\n Peso Ideal...: {0}", peso);
+                if (sexo == 1)
+                {
+                    peso = (62.1 * altura) - 44.7;
+                }
+                else if (sexo == 2)
+                {
+                    peso = (72.7 * altura) - 58;
+                }
+                Console.Write("\n\n Peso Ideal...: {0}", peso);
+               
+          
             Console.ReadKey();
         }
 
