@@ -8,6 +8,10 @@ namespace Unidade_6_Complementar
 {
     class Program
     {
+
+        public static int A=0;
+        public static int B=0;
+
         static void Main1(string[] args)
         {
             //Programa 1
@@ -309,11 +313,62 @@ namespace Unidade_6_Complementar
             Console.ReadKey();
         }
 
-        static void Main(string[] args)
+              static void Main10(string[] args)
         {
-            // Programa 10
-
-
+                  //Programa 10
+                
+             int i =0;
+             for (i = 0; i < 5; i++)
+             {
+             Console.Write("Digite um par de numeros: ");
+             A = int.Parse(Console.ReadLine());
+             B = int.Parse(Console.ReadLine());
+             int divisor = divisoresA();
+             if (divisor == B)
+             {
+             Console.WriteLine("{0} e {1} são numeros amigos!",A,B);
+             }
+             else
+             {
+             divisor = divisoresB();
+             if (divisor == A)
+             {
+             Console.WriteLine("{0} e {1} são numeros amigos!", A, B);
+             }
+             }
+             Console.Clear();
+             Console.ReadKey();
+             }
         }
+            static int divisoresA()
+        {
+             int i = 0;
+             int soma = 0;
+             for(i=1; i<A; i++)
+             {
+             if (A % i == 0 && A != i)
+             {
+             soma = soma + i;
+             }
+             }
+             return soma;
+        }
+            static int divisoresB()
+        {
+             int i = 0;
+             int soma = 0;
+             for (i = 1; i< B; i++)
+             {
+             if (B % i == 0 && B != i)
+             {
+             soma = soma + i;
+             }
+             }
+             return soma;
+        }
+
+
+        
     }
+    
 }
