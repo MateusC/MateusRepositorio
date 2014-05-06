@@ -1,6 +1,0 @@
-c:\users\lucas\documents\visual studio 2013\Projects\Unidade 6 Resultado\Unidade 6\bin\Debug\Unidade 6.exe.config
-c:\users\lucas\documents\visual studio 2013\Projects\Unidade 6 Resultado\Unidade 6\bin\Debug\Unidade 6.exe
-c:\users\lucas\documents\visual studio 2013\Projects\Unidade 6 Resultado\Unidade 6\bin\Debug\Unidade 6.pdb
-c:\users\lucas\documents\visual studio 2013\Projects\Unidade 6 Resultado\Unidade 6\obj\Debug\Unidade 6.csprojResolveAssemblyReference.cache
-c:\users\lucas\documents\visual studio 2013\Projects\Unidade 6 Resultado\Unidade 6\obj\Debug\Unidade 6.exe
-c:\users\lucas\documents\visual studio 2013\Projects\Unidade 6 Resultado\Unidade 6\obj\Debug\Unidade 6.pdb
