@@ -1,0 +1,5 @@
+G:\MateusRepositorio\MateusRepositorio\Unidade 7\bin\Debug\Unidade_7.exe.config
+G:\MateusRepositorio\MateusRepositorio\Unidade 7\bin\Debug\Unidade_7.exe
+G:\MateusRepositorio\MateusRepositorio\Unidade 7\bin\Debug\Unidade_7.pdb
+G:\MateusRepositorio\MateusRepositorio\Unidade 7\obj\Debug\Unidade_7.exe
+G:\MateusRepositorio\MateusRepositorio\Unidade 7\obj\Debug\Unidade_7.pdb

@@ -8,7 +8,7 @@ namespace Unidade_7
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             //Programa de Operadores
             int a = 0;
@@ -49,11 +49,39 @@ namespace Unidade_7
             if (a != b) { };    // diferente de
 
                                                       //OPERADORES LÓGICOS
+
             if (a > b & a > c) { };     // "E"   obs: verifica a segunda condição, mesmo a primeira sendo falsa;
             if (a < b && a < c) { };    // "E"   
             if (a == c | a == b) { };   // "OU"  obs: verifica a segunda condição, mesmo a primeira sendo verdadeira;
             if (a != b || a != c) { };  // "OU"
             if (a >= b ^ a <= c) { };   // "XOR"  somente a primeira ou somente a segunda, EXCLUSIVAMENTE uma opção apenas;
+
+                                                      // OPERADOR TERNÁRIO
+
+            string resultado = a > 0.9 ? "aprovado" : "reprovado";
+            Console.WriteLine(a > 0.9 ? "aprovado" : "reprovado");
+            if (a == c) { };
         }
+
+        static void Main(string[] args)
+        {
+            // Programa com ternários e negação
+
+            int a = 1;
+            int b = 2;
+
+            string resultado = a > b ? "A maior que B" : "B maior que A";
+            Console.WriteLine(resultado);
+            if (!(a > b))
+            {
+                Console.WriteLine("A não é maior que B.");
+            }
+            else
+            {
+                Console.WriteLine("B não é maior que A.");
+            }
+            Console.ReadKey();
+        }
+
     }
 }

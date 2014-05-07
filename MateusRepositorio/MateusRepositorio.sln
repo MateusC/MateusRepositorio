@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade_6", "Unidade 6\Unid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade_6_Complementar", "Unidade 6 Complementar\Unidade 6 Complementar\Unidade_6_Complementar.csproj", "{03EBB351-2200-49A4-9834-A5D4FF59472A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade_7", "Unidade_7\Unidade_7.csproj", "{4F4D2E17-5191-494E-A921-38B69566EEE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unidade_7", "Unidade 7\Unidade_7.csproj", "{4F4D2E17-5191-494E-A921-38B69566EEE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
