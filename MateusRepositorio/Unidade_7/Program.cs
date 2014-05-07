@@ -26,10 +26,7 @@ namespace Unidade_7
             int dezessete = 17;
             string final = oi + dezessete;  // concatenação de string
 
-
-
-
-            // Operadores de Atribuição
+                                                     //OPERADORES DE ATRIBUIÇÃO
 
             a = 0;
             a += 1; //a = a+1
@@ -41,7 +38,22 @@ namespace Unidade_7
             a--;    //a-1  pós-decremento
             ++a;    //a+1  pré-incremento
             --a;    //a-1  pré-decremento
-            
+
+                                                      //OPERADORES RELACIONAIS
+
+            if (a > b) { };     // maior que
+            if (a < b) { };     // menor que
+            if (a >= b) { };    // maior igual
+            if (a <= b) { };    // menor igual
+            if (a == b) { };    // igual a
+            if (a != b) { };    // diferente de
+
+                                                      //OPERADORES LÓGICOS
+            if (a > b & a > c) { };     // "E"   obs: verifica a segunda condição, mesmo a primeira sendo falsa;
+            if (a < b && a < c) { };    // "E"   
+            if (a == c | a == b) { };   // "OU"  obs: verifica a segunda condição, mesmo a primeira sendo verdadeira;
+            if (a != b || a != c) { };  // "OU"
+            if (a >= b ^ a <= c) { };   // "XOR"  somente a primeira ou somente a segunda, EXCLUSIVAMENTE uma opção apenas;
         }
     }
 }
