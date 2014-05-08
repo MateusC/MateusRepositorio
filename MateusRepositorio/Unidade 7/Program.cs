@@ -89,7 +89,7 @@ namespace Unidade_7
         //}
         }
 
-        static void Main(string[]args){
+        static void Main1(string[]args){
 
             //Programa 1
 
@@ -110,6 +110,66 @@ namespace Unidade_7
             Console.WriteLine("\n\n\t\tMedia das Vendas : {0}",media);
             Console.WriteLine("\n\n\t\tPreço mais alto: {0}",MaiorPreco);
             Console.ReadKey();
+
+        }
+
+        static int Main2(string[] args)
+        {
+            //Programa 2
+
+            int QuantidadeHabitantes = 0;
+            int QuantidadeFilhos = 0;
+            double MediaFilhos = 0;
+            double MediaSalario = 0;
+            double MaiorSalario = 0;
+            double SalarioMenor = 0;
+            double Salario =0;
+            do
+            {
+                Console.Write("Salário ....: ");
+                Salario = double.Parse(Console.ReadLine());
+                if (Salario < 0 && QuantidadeHabitantes==0)
+                {
+                    return(0);
+                }
+                else if (Salario < 0)
+                {
+                    break;
+                }
+                MaiorSalario = MaiorSalario > Salario ? MaiorSalario : Salario;
+                SalarioMenor = Salario < 150 ? SalarioMenor + 1 : SalarioMenor;
+                MediaSalario += Salario;
+                do
+                {
+                    Console.Write("Quantidade de Filhos ...: ");
+                    QuantidadeFilhos = int.Parse(Console.ReadLine());
+                } while (QuantidadeFilhos <= 0 && QuantidadeFilhos > 10);
+                MediaFilhos += QuantidadeFilhos;
+                QuantidadeHabitantes += 1;
+            } while (Salario > 0);
+            MediaFilhos /= QuantidadeHabitantes;
+            MediaSalario /= QuantidadeHabitantes;
+            SalarioMenor /= QuantidadeHabitantes;
+            Console.Write("Media do Salário ....: {0:F2}", MediaSalario);
+            Console.Write("\nMedia de Filhos ....: {0:F2}", MediaFilhos);
+            Console.Write("\nMaior Salário ......: {0:F2}", MaiorSalario);
+            Console.Write("\nPercentual de Salários menores que R$150,00 ...: {0:F2}%", SalarioMenor*100);
+            Console.ReadKey();
+            return (0);
+
+        }
+
+        static void Main(string[] args)
+        {
+            //Programa 3
+            int QuantidadeMercadorias = 0;
+            double MediaDasMercadorias = 0;
+            double ValorEmEstoque = 0;
+
+            Console.Write("N° produtos em estoque ....: ");
+            QuantidadeMercadorias = int.Parse(Console.ReadLine());
+            
+           
 
 
         }

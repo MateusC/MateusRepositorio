@@ -1,0 +1,6 @@
+G:\MateusRepositorio\MateusRepositorio\Medindo a Febre V\bin\Debug\Medindo a Febre V.exe.config
+G:\MateusRepositorio\MateusRepositorio\Medindo a Febre V\bin\Debug\Medindo a Febre V.exe
+G:\MateusRepositorio\MateusRepositorio\Medindo a Febre V\bin\Debug\Medindo a Febre V.pdb
+G:\MateusRepositorio\MateusRepositorio\Medindo a Febre V\obj\Debug\Medindo a Febre V.exe
+G:\MateusRepositorio\MateusRepositorio\Medindo a Febre V\obj\Debug\Medindo a Febre V.pdb
+G:\MateusRepositorio\MateusRepositorio\Medindo a Febre V\obj\Debug\Medindo a Febre V.csprojResolveAssemblyReference.cache
