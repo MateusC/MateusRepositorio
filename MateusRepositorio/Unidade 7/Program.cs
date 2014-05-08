@@ -168,6 +168,15 @@ namespace Unidade_7
 
             Console.Write("N° produtos em estoque ....: ");
             QuantidadeMercadorias = int.Parse(Console.ReadLine());
+            for (int i = 0; i < QuantidadeMercadorias; i++)
+            {
+
+
+
+
+
+
+            }
             
            
 
