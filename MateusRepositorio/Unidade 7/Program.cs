@@ -170,13 +170,21 @@ namespace Unidade_7
             QuantidadeMercadorias = int.Parse(Console.ReadLine());
             for (int i = 0; i < QuantidadeMercadorias; i++)
             {
-
-
-
-
-
-
+                Console.Write("Nome : ");
+                string Nome = Console.ReadLine();
+                Console.Write("Valor : ");
+                double valor = double.Parse(Console.ReadLine());
+                Console.Write("Quantidade : ");
+                int Quantidade = int.Parse(Console.ReadLine());
+                ValorEmEstoque += valor * Quantidade;
+                MediaDasMercadorias += valor;
+                 
             }
+            MediaDasMercadorias /=  QuantidadeMercadorias;
+            Console.Write    ("Temos {0} tipos de mercadoria em estoque.", QuantidadeMercadorias);
+            Console.WriteLine("\nEssas mercadorias totalizam R$ {0:F2}. ", ValorEmEstoque);
+            Console.WriteLine("A média dos preços das mercadorias fica em torno de R$ {0:F2}.", MediaDasMercadorias);
+            Console.ReadKey();
             
            
 
