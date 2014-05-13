@@ -159,7 +159,7 @@ namespace Unidade_7
 
         }
 
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             //Programa 3
             int QuantidadeMercadorias = 0;
@@ -185,10 +185,36 @@ namespace Unidade_7
             Console.WriteLine("\nEssas mercadorias totalizam R$ {0:F2}. ", ValorEmEstoque);
             Console.WriteLine("A média dos preços das mercadorias fica em torno de R$ {0:F2}.", MediaDasMercadorias);
             Console.ReadKey();
-            
-           
+          
+        }
+        static void Main4(string[] args)
+        {
+            // Programa 4
 
+        }
 
+        static void Main5(string[] args)
+        {
+            // Programa 5
+            Random simulados = new Random();
+            int[] Dado = new int[6];
+            for (int i = 0; i < 100; i++)
+            {
+                int rolagem = simulados.Next(1, 7);
+                Dado[0] = rolagem == 1 ? Dado[0] + 1 : Dado[0];
+                Dado[1] = rolagem == 2 ? Dado[1] + 1 : Dado[1];
+                Dado[2] = rolagem == 3 ? Dado[2] + 1 : Dado[2];
+                Dado[3] = rolagem == 4 ? Dado[3] + 1 : Dado[3];
+                Dado[4] = rolagem == 5 ? Dado[4] + 1 : Dado[4];
+                Dado[5] = rolagem == 6 ? Dado[5] + 1 : Dado[5];
+            }
+            Console.WriteLine("Foi rolado 1 {0} vezes.", Dado[0]);
+            Console.WriteLine("Foi rolado 2 {0} vezes.", Dado[1]);
+            Console.WriteLine("Foi rolado 3 {0} vezes.", Dado[2]);
+            Console.WriteLine("Foi rolado 4 {0} vezes.", Dado[3]);
+            Console.WriteLine("Foi rolado 5 {0} vezes.", Dado[4]);
+            Console.WriteLine("Foi rolado 6 {0} vezes.", Dado[5]);
+            Console.ReadKey();
         }
     }
 
