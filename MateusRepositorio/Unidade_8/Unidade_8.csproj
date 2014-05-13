@@ -44,7 +44,12 @@
     <Compile Include="A_Dividido_Por_B.cs" />
     <Compile Include="Camisas.cs" />
     <Compile Include="Controle_de_Fluxo.cs" />
+    <Compile Include="Divide_Maior_Inteiro.cs" />
     <Compile Include="Escolhe_Caminho.cs" />
+    <Compile Include="Imprime_100.cs" />
+    <Compile Include="Imprime_100_Exceto_Multiplos_de_3.cs" />
+    <Compile Include="Instruções_Repetições.cs" />
+    <Compile Include="Main.cs" />
     <Compile Include="Verifica_Valor_Produto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
