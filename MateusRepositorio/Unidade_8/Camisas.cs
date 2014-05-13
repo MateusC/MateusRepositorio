@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace Unidade_8
 {
-    class Escolhe_Caminho
+    class Camisas
     {
         // Programa 1
-        static void Main1(string[] args)
+
+        static void Main(string[] args)
         {
             Random gerador = new Random();
-            double caminho = gerador.NextDouble();
-
-            string CaminhoCerto = caminho > 0.5 ? "siga pra direita" : "siga pra esquerda";
-            Console.WriteLine("Pare, {0} !", CaminhoCerto);
+            double camisa = gerador.NextDouble();
+            string Cor = camisa > 0.5 ? "Vermelha" : "Azul";
+            Console.WriteLine("A camisa é {0}.", Cor);
             Console.ReadKey();
         }
     }

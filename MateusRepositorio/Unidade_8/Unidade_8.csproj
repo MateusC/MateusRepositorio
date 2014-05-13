@@ -41,13 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="A_Dividido_Por_B.cs" />
+    <Compile Include="Camisas.cs" />
     <Compile Include="Controle_de_Fluxo.cs" />
     <Compile Include="Escolhe_Caminho.cs" />
     <Compile Include="Verifica_Valor_Produto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
