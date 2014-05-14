@@ -8,7 +8,7 @@ namespace Unidade_8
 {
     class Divide_Maior_Inteiro
     {
-        static void Main (string[]args)
+        static void Main1 (string[]args)
         {
             int inteiro = 2147483647;
             int resultado = inteiro;
