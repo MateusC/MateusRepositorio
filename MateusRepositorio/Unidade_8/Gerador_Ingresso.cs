@@ -11,10 +11,10 @@ namespace Unidade_8
         static void Main(string[] args)
         {
             Random gerador = new Random();
-            int i, j = 0;
-            i = gerador.Next(1,5);
-            j = gerador.Next(1,201);
-            Console.WriteLine("Setor {0}, Cadeira {1}",i,j);
+            int setor, cadeira = 0;
+            setor = gerador.Next(1,5);
+            cadeira = gerador.Next(1,201);
+            Console.WriteLine("Setor {0}, Cadeira {1}",setor,cadeira);
             Console.ReadKey();
 
 
