@@ -50,6 +50,7 @@
     <Compile Include="Imprime_100.cs" />
     <Compile Include="Imprime_100_Exceto_Multiplos_de_3.cs" />
     <Compile Include="Instruções_Repetições.cs" />
+    <Compile Include="JogoDeDado2.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Verifica_Valor_Produto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
