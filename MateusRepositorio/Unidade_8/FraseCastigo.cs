@@ -8,7 +8,7 @@ namespace Unidade_8
 {
     class FraseCastigo
     {
-        static void Main (string[]args)
+        static void Main1 (string[]args)
         {
             int i =1;
 
