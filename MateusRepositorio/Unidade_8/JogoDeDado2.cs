@@ -8,7 +8,7 @@ namespace Unidade_8
 {
     class JogoDeDado2
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Random gerador = new Random();
             int somaLancamentos = 0;
