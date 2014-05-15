@@ -10,7 +10,7 @@ namespace Medindo_a_Febre_VI
     {
         static void Main(string[] args)
         {
-            int QuantidadeAlunos = 100;
+            int QuantidadeAlunos = 2;
             int[] Matricula = new int[QuantidadeAlunos];
             double[,] Notas = new double[QuantidadeAlunos, 3];
             int[] Frequencia = new int[QuantidadeAlunos];
@@ -36,19 +36,18 @@ namespace Medindo_a_Febre_VI
                         Notas[i, j] = double.Parse(Console.ReadLine());
                     } while (Notas[i, j] < 0 || Notas[i, j] > 100);
 
-                    NotaMedia += Notas[i, j];
-
-                    if (Notas[i, j] < MenorNota)
-                    {
-                        MenorNota = Notas[i, j];
-                    }
-                    if (Notas[i, j] > MaiorNota)
-                    {
-                        MaiorNota = Notas[i, j];
-                    }
+                    NotaMedia += Notas[i, j];                               
                     
                 }
                 Media[i] = (Notas [i,0] + Notas [i,1]+Notas [i,2] ) / 3;
+                if (Media[i] < MenorNota)
+                {
+                    MenorNota = Media[i];
+                }
+                if (Media[i] > MaiorNota)
+                {
+                    MaiorNota = Media[i];
+                }
                 Console.Write("Numero de presenças: ");
                 Frequencia[i] = int.Parse(Console.ReadLine());
                 if (Frequencia[i] < 40 || Media[i] <60 )
@@ -74,8 +73,8 @@ namespace Medindo_a_Febre_VI
             NotaMedia = (NotaMedia / 3) / QuantidadeAlunos;
             Console.WriteLine("\nTotal alunos.........: {0}", QuantidadeAlunos);
             Console.WriteLine("Nota Média da turma..: {0:F2}", NotaMedia);
-            Console.WriteLine("Nota maior...........: {0}", MaiorNota);
-            Console.WriteLine("Nota menor...........: {0}", MenorNota);
+            Console.WriteLine("Maior Média...........: {0}", MaiorNota);
+            Console.WriteLine("Menor Média...........: {0}", MenorNota);
             Console.WriteLine("Alunos reprovados....: {0}", QuantidadeReprovados);
             Console.ReadKey();
         }
