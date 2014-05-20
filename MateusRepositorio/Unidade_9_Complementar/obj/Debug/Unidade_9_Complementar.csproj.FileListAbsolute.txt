@@ -1,0 +1,6 @@
+G:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\bin\Debug\Unidade_9_Complementar.exe.config
+G:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\bin\Debug\Unidade_9_Complementar.exe
+G:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\bin\Debug\Unidade_9_Complementar.pdb
+G:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\obj\Debug\Unidade_9_Complementar.exe
+G:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\obj\Debug\Unidade_9_Complementar.pdb
+G:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\obj\Debug\Unidade_9_Complementar.csprojResolveAssemblyReference.cache

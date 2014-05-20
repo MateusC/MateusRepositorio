@@ -8,7 +8,7 @@ namespace Medindo_a_Febre_VI
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int QuantidadeAlunos = 2;
             int[] Matricula = new int[QuantidadeAlunos];
