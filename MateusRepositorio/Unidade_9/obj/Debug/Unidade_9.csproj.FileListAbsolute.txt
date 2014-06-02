@@ -4,3 +4,6 @@ G:\MateusRepositorio\MateusRepositorio\Unidade_9\bin\Debug\Unidade_9.pdb
 G:\MateusRepositorio\MateusRepositorio\Unidade_9\obj\Debug\Unidade_9.csprojResolveAssemblyReference.cache
 G:\MateusRepositorio\MateusRepositorio\Unidade_9\obj\Debug\Unidade_9.exe
 G:\MateusRepositorio\MateusRepositorio\Unidade_9\obj\Debug\Unidade_9.pdb
+D:\Meu Repositorio\MateusRepositorio\Unidade_9\bin\Debug\Unidade_9.exe.config
+D:\Meu Repositorio\MateusRepositorio\Unidade_9\obj\Debug\Unidade_9.exe
+D:\Meu Repositorio\MateusRepositorio\Unidade_9\obj\Debug\Unidade_9.pdb
