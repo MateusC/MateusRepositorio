@@ -7,3 +7,6 @@ G:\MateusRepositorio\MateusRepositorio\Medindo a Febre V\obj\Debug\Medindo a Feb
 C:\Users\aluno\Documents\Visual Studio\MateusRepositorio\MateusRepositorio\Medindo a Febre V\bin\Debug\Medindo a Febre V.exe.config
 C:\Users\aluno\Documents\Visual Studio\MateusRepositorio\MateusRepositorio\Medindo a Febre V\obj\Debug\Medindo a Febre V.exe
 C:\Users\aluno\Documents\Visual Studio\MateusRepositorio\MateusRepositorio\Medindo a Febre V\obj\Debug\Medindo a Febre V.pdb
+C:\Users\aluno\Documents\Visual Studio\MateusRepositorio\MateusRepositorio\Medindo a Febre V\bin\Debug\Medindo a Febre V.exe
+C:\Users\aluno\Documents\Visual Studio\MateusRepositorio\MateusRepositorio\Medindo a Febre V\bin\Debug\Medindo a Febre V.pdb
+C:\Users\aluno\Documents\Visual Studio\MateusRepositorio\MateusRepositorio\Medindo a Febre V\obj\Debug\Medindo a Febre V.csprojResolveAssemblyReference.cache
