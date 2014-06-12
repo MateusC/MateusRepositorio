@@ -211,7 +211,7 @@ namespace Unidade_9_Complementar
             // Opostos dos vetores
             int[] A = new int[50];
             int[] B = new int[50];
-            int total = 0;
+            //int total = 0;
             Random gerador = new Random();
 
             for (int i = 0; i < 50; i++)
