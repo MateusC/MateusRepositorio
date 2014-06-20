@@ -58,6 +58,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Igor", "Igor", "{EB1E4B1F-97C1-4BFA-AC26-06930609315C}"
 	ProjectSection(SolutionItems) = preProject
 		C:\Users\Matt\Desktop\Trabalho C Mateus.cpp = C:\Users\Matt\Desktop\Trabalho C Mateus.cpp
+		C:\Users\Matt\Desktop\Trabalho C Mateus.exe = C:\Users\Matt\Desktop\Trabalho C Mateus.exe
 	EndProjectSection
 EndProject
 Global
