@@ -1,0 +1,11 @@
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.exe.config
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.pdb
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.pdb
+F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.exe.config
+F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.exe
+F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.pdb
+F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_06_Complementar.csprojResolveAssemblyReference.cache
+F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.exe
+F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.pdb

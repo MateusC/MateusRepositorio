@@ -1,0 +1,10 @@
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\bin\Debug\Unidade_9_Complementar.exe.config
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\bin\Debug\Unidade_9_Complementar.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\bin\Debug\Unidade_9_Complementar.pdb
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\obj\Debug\Unidade_9_Complementar.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\obj\Debug\Unidade_9_Complementar.pdb
+F:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\bin\Debug\Unidade_9_Complementar.exe.config
+F:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\bin\Debug\Unidade_9_Complementar.exe
+F:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\bin\Debug\Unidade_9_Complementar.pdb
+F:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\obj\Debug\Unidade_9_Complementar.exe
+F:\MateusRepositorio\MateusRepositorio\Unidade_9_Complementar\obj\Debug\Unidade_9_Complementar.pdb

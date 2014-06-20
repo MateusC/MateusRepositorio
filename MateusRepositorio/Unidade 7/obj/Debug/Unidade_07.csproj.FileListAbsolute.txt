@@ -1,0 +1,2 @@
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 7\obj\Debug\Unidade_7.exe
+F:\MateusRepositorio\MateusRepositorio\Unidade 7\obj\Debug\Unidade_07.csprojResolveAssemblyReference.cache

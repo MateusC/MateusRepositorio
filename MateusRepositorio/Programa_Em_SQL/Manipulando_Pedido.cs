@@ -48,7 +48,7 @@ namespace Programa_Em_SQL
                 }
             }
 
-            catch (SqlException a)
+            catch (SqlException )
             {
                 // Console.WriteLine(a.ToString);
             }

@@ -1,0 +1,10 @@
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.exe.config
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.pdb
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\obj\Debug\Programa_Em_SQL.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\obj\Debug\Programa_Em_SQL.pdb
+F:\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.exe.config
+F:\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.exe
+F:\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.pdb
+F:\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\obj\Debug\Programa_Em_SQL.exe
+F:\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\obj\Debug\Programa_Em_SQL.pdb

@@ -1,0 +1,9 @@
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_8\bin\Debug\Unidade_8.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_8\bin\Debug\Unidade_8.pdb
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_8\obj\Debug\Unidade_8.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_8\obj\Debug\Unidade_8.pdb
+F:\MateusRepositorio\MateusRepositorio\Unidade_8\bin\Debug\Unidade_8.exe
+F:\MateusRepositorio\MateusRepositorio\Unidade_8\bin\Debug\Unidade_8.pdb
+F:\MateusRepositorio\MateusRepositorio\Unidade_8\obj\Debug\Unidade_08.csprojResolveAssemblyReference.cache
+F:\MateusRepositorio\MateusRepositorio\Unidade_8\obj\Debug\Unidade_8.exe
+F:\MateusRepositorio\MateusRepositorio\Unidade_8\obj\Debug\Unidade_8.pdb

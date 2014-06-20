@@ -1,0 +1,10 @@
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_11\bin\Debug\Unidade_11.exe.config
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_11\bin\Debug\Unidade_11.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_11\bin\Debug\Unidade_11.pdb
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_11\obj\Debug\Unidade_11.exe
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade_11\obj\Debug\Unidade_11.pdb
+F:\MateusRepositorio\MateusRepositorio\Unidade_11\bin\Debug\Unidade_11.exe.config
+F:\MateusRepositorio\MateusRepositorio\Unidade_11\bin\Debug\Unidade_11.exe
+F:\MateusRepositorio\MateusRepositorio\Unidade_11\bin\Debug\Unidade_11.pdb
+F:\MateusRepositorio\MateusRepositorio\Unidade_11\obj\Debug\Unidade_11.exe
+F:\MateusRepositorio\MateusRepositorio\Unidade_11\obj\Debug\Unidade_11.pdb
