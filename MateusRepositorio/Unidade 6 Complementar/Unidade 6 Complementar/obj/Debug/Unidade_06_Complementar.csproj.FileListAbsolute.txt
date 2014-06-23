@@ -9,3 +9,9 @@ F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Compleme
 F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_06_Complementar.csprojResolveAssemblyReference.cache
 F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.exe
 F:\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.pdb
+G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.exe.config
+G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.exe
+G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\bin\Debug\Unidade_6_Complementar.pdb
+G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_06_Complementar.csprojResolveAssemblyReference.cache
+G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.exe
+G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.pdb

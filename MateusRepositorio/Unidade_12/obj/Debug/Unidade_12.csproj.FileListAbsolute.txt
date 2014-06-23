@@ -12,3 +12,10 @@ F:\MateusRepositorio\MateusRepositorio\Unidade_12\bin\Debug\Unidade_12.exe
 F:\MateusRepositorio\MateusRepositorio\Unidade_12\bin\Debug\Unidade_12.pdb
 F:\MateusRepositorio\MateusRepositorio\Unidade_12\obj\Debug\Unidade_12.exe
 F:\MateusRepositorio\MateusRepositorio\Unidade_12\obj\Debug\Unidade_12.pdb
+G:\MeuRepositorio\MateusRepositorio\Unidade_12\bin\Debug\DataBase\MateusDB.mdf
+G:\MeuRepositorio\MateusRepositorio\Unidade_12\bin\Debug\DataBase\MateusDB_log.ldf
+G:\MeuRepositorio\MateusRepositorio\Unidade_12\bin\Debug\Unidade_12.exe.config
+G:\MeuRepositorio\MateusRepositorio\Unidade_12\bin\Debug\Unidade_12.exe
+G:\MeuRepositorio\MateusRepositorio\Unidade_12\bin\Debug\Unidade_12.pdb
+G:\MeuRepositorio\MateusRepositorio\Unidade_12\obj\Debug\Unidade_12.exe
+G:\MeuRepositorio\MateusRepositorio\Unidade_12\obj\Debug\Unidade_12.pdb

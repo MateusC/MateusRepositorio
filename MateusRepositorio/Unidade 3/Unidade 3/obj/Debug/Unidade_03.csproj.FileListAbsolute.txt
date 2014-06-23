@@ -18,3 +18,6 @@ C:\Users\Greicy\Source\Repos\MateusRepositorio2\MateusRepositorio\Unidade 3\Unid
 G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\bin\Debug\Unidade 3.exe.config
 G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\obj\Debug\Unidade 3.exe
 G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\obj\Debug\Unidade 3.pdb
+G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\bin\Debug\Unidade 3.exe
+G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\bin\Debug\Unidade 3.pdb
+G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\obj\Debug\Unidade_03.csprojResolveAssemblyReference.cache

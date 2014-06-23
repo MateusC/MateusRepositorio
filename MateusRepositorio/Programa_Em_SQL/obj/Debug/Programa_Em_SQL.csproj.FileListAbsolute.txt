@@ -8,3 +8,8 @@ F:\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL
 F:\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.pdb
 F:\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\obj\Debug\Programa_Em_SQL.exe
 F:\MateusRepositorio\MateusRepositorio\Programa_Em_SQL\obj\Debug\Programa_Em_SQL.pdb
+G:\MeuRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.exe.config
+G:\MeuRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.exe
+G:\MeuRepositorio\MateusRepositorio\Programa_Em_SQL\bin\Debug\Programa_Em_SQL.pdb
+G:\MeuRepositorio\MateusRepositorio\Programa_Em_SQL\obj\Debug\Programa_Em_SQL.exe
+G:\MeuRepositorio\MateusRepositorio\Programa_Em_SQL\obj\Debug\Programa_Em_SQL.pdb
