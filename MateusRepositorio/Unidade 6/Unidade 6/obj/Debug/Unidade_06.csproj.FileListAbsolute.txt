@@ -1,2 +1,3 @@
 F:\MateusRepositorio\MateusRepositorio\Unidade 6\Unidade 6\obj\Debug\Unidade_06.csprojResolveAssemblyReference.cache
 G:\MeuRepositorio\MateusRepositorio\Unidade 6\Unidade 6\obj\Debug\Unidade_06.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6\Unidade 6\obj\Debug\Unidade_06.csprojResolveAssemblyReference.cache

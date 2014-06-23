@@ -15,3 +15,4 @@ G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementa
 G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_06_Complementar.csprojResolveAssemblyReference.cache
 G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.exe
 G:\MeuRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_6_Complementar.pdb
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 6 Complementar\Unidade 6 Complementar\obj\Debug\Unidade_06_Complementar.csprojResolveAssemblyReference.cache

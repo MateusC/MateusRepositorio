@@ -21,3 +21,4 @@ G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\obj\Debug\Unidade 3.pdb
 G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\bin\Debug\Unidade 3.exe
 G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\bin\Debug\Unidade 3.pdb
 G:\MeuRepositorio\MateusRepositorio\Unidade 3\Unidade 3\obj\Debug\Unidade_03.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Source\Repos\MateusRepositorio\MateusRepositorio\Unidade 3\Unidade 3\obj\Debug\Unidade_03.csprojResolveAssemblyReference.cache
