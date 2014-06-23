@@ -87,7 +87,6 @@
     <Content Include="DataBase\Exercicio 4.sql" />
     <Content Include="DataBase\Exercicio 5.sql" />
     <Content Include="DataBase\Exercicio 6.sql" />
-    <Content Include="DataBase\Exercicios do Trabalho.sql" />
     <Content Include="DataBase\MateusDB.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -96,6 +95,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="DataBase\Unidade_12_Complementar.sql" />
+    <Content Include="TRABALHO\Exercicios do Trabalho.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
