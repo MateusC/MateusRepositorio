@@ -46,19 +46,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Banco de Dados", "Banco de 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa_Em_SQL", "Programa_Em_SQL\Programa_Em_SQL.csproj", "{074FC55D-9FDC-42CD-A805-C70AC0099E0E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Faculdade", "Faculdade", "{B57528CC-37DE-4734-AF61-0AF201B39950}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cassandro", "Cassandro", "{CFA1F8B9-2E8E-4FB3-8ECD-5F3E8799DDF1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TRABALHO", "TRABALHO", "{CA27C10F-2D66-443B-95E1-C4965F02BE66}"
 	ProjectSection(SolutionItems) = preProject
-		C:\Users\Matt\Desktop\Imagem do Programa.jpg = C:\Users\Matt\Desktop\Imagem do Programa.jpg
-		C:\Users\Matt\Desktop\Programa quase pronto.txt = C:\Users\Matt\Desktop\Programa quase pronto.txt
-		C:\Users\Matt\Desktop\Tópicos.jpg = C:\Users\Matt\Desktop\Tópicos.jpg
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Igor", "Igor", "{EB1E4B1F-97C1-4BFA-AC26-06930609315C}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\Matt\Desktop\Trabalho C Mateus.cpp = C:\Users\Matt\Desktop\Trabalho C Mateus.cpp
-		C:\Users\Matt\Desktop\Trabalho C Mateus.exe = C:\Users\Matt\Desktop\Trabalho C Mateus.exe
+		..\..\..\..\Documents\QUESTOES.docx = ..\..\..\..\Documents\QUESTOES.docx
 	EndProjectSection
 EndProject
 Global
@@ -157,7 +147,6 @@ Global
 		{D8CDA6DF-A1CF-4EBD-BDEF-3D7329245DE5} = {AB97A883-933A-49B4-BC15-AD486B9B7124}
 		{F9E3807C-792A-4836-8180-D19052204A31} = {AB97A883-933A-49B4-BC15-AD486B9B7124}
 		{074FC55D-9FDC-42CD-A805-C70AC0099E0E} = {55391EA7-84B3-4665-9D93-92E7A962F981}
-		{CFA1F8B9-2E8E-4FB3-8ECD-5F3E8799DDF1} = {B57528CC-37DE-4734-AF61-0AF201B39950}
-		{EB1E4B1F-97C1-4BFA-AC26-06930609315C} = {B57528CC-37DE-4734-AF61-0AF201B39950}
+		{CA27C10F-2D66-443B-95E1-C4965F02BE66} = {55391EA7-84B3-4665-9D93-92E7A962F981}
 	EndGlobalSection
 EndGlobal
