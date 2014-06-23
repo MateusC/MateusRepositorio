@@ -87,6 +87,7 @@
     <Content Include="DataBase\Exercicio 4.sql" />
     <Content Include="DataBase\Exercicio 5.sql" />
     <Content Include="DataBase\Exercicio 6.sql" />
+    <Content Include="DataBase\Exercicios do Trabalho.sql" />
     <Content Include="DataBase\MateusDB.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

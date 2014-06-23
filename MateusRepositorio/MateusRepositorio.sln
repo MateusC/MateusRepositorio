@@ -46,12 +46,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Banco de Dados", "Banco de 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa_Em_SQL", "Programa_Em_SQL\Programa_Em_SQL.csproj", "{074FC55D-9FDC-42CD-A805-C70AC0099E0E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TRABALHOOO", "TRABALHOOO", "{38ADC21B-CA68-454B-B280-AAE0CC392C8E}"
-	ProjectSection(SolutionItems) = preProject
-		..\Exercicios do Trabalho.sql = ..\Exercicios do Trabalho.sql
-		..\..\Documents\QUESTOES.docx = ..\..\Documents\QUESTOES.docx
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
