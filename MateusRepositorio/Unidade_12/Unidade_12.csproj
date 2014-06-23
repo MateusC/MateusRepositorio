@@ -62,6 +62,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="DataBase\Comandos de SQL.rtf" />
+    <None Include="TRABALHO\QUESTOES.docx" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
