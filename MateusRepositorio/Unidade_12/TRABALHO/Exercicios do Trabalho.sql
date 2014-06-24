@@ -11,7 +11,7 @@
 
 	--3) Crie um comando SQL que retorne o e-mail de todos os alunos maiores de idade. 
 
---select A.Email FROM TBAluno as A where DataNascimento <= '01/01/1994'
+--select A.Email FROM TBAluno as A where DataNascimento <= '01/01/1996'
 
 	--4) Desenvolva um comando SQL que mostre o total de alunos. 
 
