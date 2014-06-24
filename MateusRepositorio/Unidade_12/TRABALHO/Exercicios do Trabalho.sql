@@ -2,6 +2,8 @@
 	--1) Faça um comando SQL para matricular o aluno “Pedro César” no curso de Informática. Os dados devem ser inseridos na tabela TBMATRÍCULA. 
 
 --Inserido manualmente pelo Table Data
+--INSERT INTO TBAluno (Nome,DataNascimento,Email,Sexo) VALUES ('Tiburcio','1995/02/1880','tiburcio@gmail.com','M')
+--INSERT INTO TBMatricula (Curso_Id,Aluno_Id) values (5,7)
 
 	--2) Escreva um comando SQL que retorne os nomes dos alunos e do(s) cursos em que estão matriculados. Os dados deverão estar ordenados pelo nome do curso. 
 
