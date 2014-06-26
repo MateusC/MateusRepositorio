@@ -88,26 +88,26 @@ namespace Unidade_Complementar
             Console.ReadKey();
         }
         static IList<string>IList = new List<string>(){"a","b","c","d"};
-        static void Main4(string[] args)
+        static void Main(string[] args)
         {
             var UmAteDez = new List<int>{1,2,3,4,5,6,7,8,9,10};
             ArrayList UmAteVinte = new ArrayList(20);
             Dictionary<string, string> Dicionario = new Dictionary<string, string>(10);
 
-            Console.WriteLine("Imprimindo de 1 ate 10 com o List");
+            Console.WriteLine("\nImprimindo de 1 ate 10 com o List");
             foreach (var lista in UmAteDez)
             {
                 Console.Write(lista + " ");
             }
             Console.ReadKey();
-            Console.WriteLine("\nImprimindo de 1 ate 20 com ArrayList");
+            Console.WriteLine("\n\nImprimindo de 1 ate 20 com ArrayList");
             for (int i = 0; i < UmAteVinte.Capacity; i++)
             {
                 UmAteVinte.Add(i+1);
-                Console.WriteLine(UmAteVinte[i]);
+                Console.Write(UmAteVinte[i]+" ");
             }
             Console.ReadKey();
-            Console.WriteLine("Imprimindo nomes do dicionario");
+            Console.WriteLine("\n\nImprimindo nomes do dicionario");
             Dicionario.Add("Mateus", "Coutinho");
             Dicionario.Add("Greicy", "Matias");
             Dicionario.Add("Rodrigo", "Alves");
@@ -122,8 +122,9 @@ namespace Unidade_Complementar
             {
                 Console.Write(leia + " ");
             }
+            Console.ReadKey();
         }
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             var CopaMundo = new Dictionary<string, char>();
             var times = new List<string>();
