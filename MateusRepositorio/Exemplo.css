@@ -1,9 +1,30 @@
 ﻿h2{
     color:blue;
-    text-align:center;
+    text-align:left;
 }
 .label{
     color:yellow;
     text-align:right;
     background-color:black;
+}
+p.blue{
+    color:blue;
+    font-size:50pt;
+    margin-left:20px;
+}
+body{
+    background-image:url("4.png");
+    background-repeat:no-repeat;
+    background-color:chocolate
+}
+p.lowercase{
+    text-transform:lowercase;
+}
+p.uppercase{
+    text-transform:uppercase;
+    text-indent:50px;
+    font-family:"Arial Black","";
+}
+p.capitalize{
+    text-transform:capitalize;
 }

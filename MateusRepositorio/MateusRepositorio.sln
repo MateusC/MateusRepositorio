@@ -58,6 +58,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML5", "HTML5", "{CDBFE8C1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{3238BB06-A0E4-4082-8C5C-76225E217DDE}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\4.png = ..\..\..\..\Downloads\4.png
 		Exemplo.css = Exemplo.css
 	EndProjectSection
 EndProject
