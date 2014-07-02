@@ -53,6 +53,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML5", "HTML5", "{CDBFE8C1-55EC-464B-9BAB-51151CA853EC}"
 	ProjectSection(SolutionItems) = preProject
 		Exemplo.html = Exemplo.html
+		Site.html = Site.html
 		UtilizandoCSS.html = UtilizandoCSS.html
 	EndProjectSection
 EndProject

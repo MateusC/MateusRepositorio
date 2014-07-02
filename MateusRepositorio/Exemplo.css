@@ -1,4 +1,4 @@
-﻿h2{
+﻿/*h2{
     color:blue;
     text-align:left;
 }
@@ -27,4 +27,8 @@ p.uppercase{
 }
 p.capitalize{
     text-transform:capitalize;
+}*/
+.white{
+    color:white;
+    text-align:left;
 }
